@@ -1,855 +1,2203 @@
 {
-  "android_play_store_link": "http://play.google.com/store/apps/details?id=com.gamacrack.trending_stickers",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.s1.marocstickers",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "2",
-      "name": "Cute Paandoo",
-      "publisher": "Trending Stickers",
-      "tray_image_file": "1.png",
-      "publisher_email":"Chauhantheleader@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "http://kethod.com/apps/trending-stickers/privacy-policy.html",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "stickers": [
+      "identifier":"1",
+      "name":"ملصقات كبور1",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
         {
-          "image_file": "1.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
         }
       ]
     },
+
     {
-      "identifier": "4",
-      "name": "Red Squarl",
-      "publisher": "Trending Stickers",
-      "tray_image_file": "1.png",
-      "publisher_email":"Chauhantheleader@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "http://kethod.com/apps/trending-stickers/privacy-policy.html",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "stickers": [
+      "identifier":"2",
+      "name":"ملصقات كبور2",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
         {
-          "image_file": "1.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
         }
       ]
     },
+
     {
-      "identifier": "1",
-      "name": "Trending Bob",
-      "publisher": "Trending Stickers",
-      "tray_image_file": "1.png",
-      "publisher_email":"Chauhantheleader@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "http://kethod.com/apps/trending-stickers/privacy-policy.html",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "stickers": [
+      "identifier":"3",
+      "name":"ملصقات كبور3",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
         {
-          "image_file": "1.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
         }
       ]
     },
+
     {
-      "identifier": "3",
-      "name": "Funny Doggy",
-      "publisher": "Trending Stickers",
-      "tray_image_file": "1.png",
-      "publisher_email":"Chauhantheleader@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "http://kethod.com/apps/trending-stickers/privacy-policy.html",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "stickers": [
+      "identifier":"4",
+      "name":"ملصقات كبور4",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
         {
-          "image_file": "1.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
         }
       ]
     },
+
     {
-      "identifier": "5",
-      "name": "Sweet Ghost",
-      "publisher": "Trending Stickers",
-      "tray_image_file": "1.png",
-      "publisher_email":"Chauhantheleader@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "http://kethod.com/apps/trending-stickers/privacy-policy.html",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "stickers": [
+      "identifier":"5",
+      "name":"ملصقات كبور5",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
         {
-          "image_file": "1.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
         }
       ]
     },
+
     {
-      "identifier": "6",
-      "name": "Tommy and Jery",
-      "publisher": "Trending Stickers",
-      "tray_image_file": "1.png",
-      "publisher_email":"Chauhantheleader@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "http://kethod.com/apps/trending-stickers/privacy-policy.html",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "stickers": [
+      "identifier":"6",
+      "name":"ملصقات كبور6",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
         {
-          "image_file": "1.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
         }
       ]
     },
+
     {
-      "identifier": "7",
-      "name": "Toyy Story",
-      "publisher": "Trending Stickers",
-      "tray_image_file": "1.png",
-      "publisher_email":"Chauhantheleader@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "http://kethod.com/apps/trending-stickers/privacy-policy.html",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "stickers": [
+      "identifier":"7",
+      "name":"ملصقات لحبيب",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
         {
-          "image_file": "1.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😭","💧"]
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"8",
+      "name":"ملصقات سوحليفة",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "13.webp",
-          "emojis": ["💔","👎"]
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "14.webp",
-          "emojis": ["😍","💑"]
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "15.webp",
-          "emojis": ["😘","🍪"]
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "16.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "17.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "18.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "19.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
         },
         {
-          "image_file": "20.webp",
-          "emojis": ["😩","😨"]
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"9",
+      "name":"ملصقات سوحليفة 2",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"10",
+      "name":"ملصقات ريشارد عزوز",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"11",
+      "name":"ملصقات نيبا",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"12",
+      "name":"ملصقات مضحكة1",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"13",
+      "name":"ملصقات مضحكة2",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"14",
+      "name":"ملصقات مضحكة3",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"15",
+      "name":"ملصقات ردود أفعال 1",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"16",
+      "name":"ملصقات ردود أفعال 2",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp"
+        },
+        {
+          "image_file":"2.webp"
+        },
+        {
+          "image_file":"3.webp"
+        },
+        {
+          "image_file":"4.webp"
+        },
+        {
+          "image_file":"5.webp"
+        },
+        {
+          "image_file":"6.webp"
+        },
+        {
+          "image_file":"7.webp"
+        },
+        {
+          "image_file":"8.webp"
+        },
+        {
+          "image_file":"9.webp"
+        },
+        {
+          "image_file":"10.webp"
+        },
+        {
+          "image_file":"11.webp"
+        },
+        {
+          "image_file":"12.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier":"17",
+      "name":"ملصقات ردود أفعال 3",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"18",
+      "name":"ملصقات زهور و ورود",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"19",
+      "name":"ملصقات كلاسيكو",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"13.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"14.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"15.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"16.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"17.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"18.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"19.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"20.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"21.webp",
+          "emojis":[
+
+          ]
+
+        },
+        {
+          "image_file":"22.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"23.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"24.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"25.webp",
+          "emojis":[
+
+          ]
+
+        },
+        {
+          "image_file":"26.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"27.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"28.webp",
+          "emojis":[
+
+          ]
+
+        },
+        {
+          "image_file":"29.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"30.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"20",
+      "name":"ملصقات إلقاء التحية",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"21",
+      "name":"ملصقات جمعة مباركة",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"22",
+      "name":"ملصقات ردود أفعال",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"23",
+      "name":"ملصقات رمضان كريم",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"24",
+      "name":"ملصقات صباح الخير",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier":"25",
+      "name":"ملصقات مساء الخير",
+      "publisher":"S1 INC",
+      "tray_image_file":"tray.png",
+      "publisher_email":"davidyounes9@gmail.com",
+      "publisher_website":"https:\/\/play.google.com\/store\/apps\/developer?id=S1 INC",
+      "privacy_policy_website":"",
+      "license_agreement_website":"",
+      "stickers":[
+        {
+          "image_file":"1.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"2.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"3.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"4.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"5.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"6.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"7.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"8.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"9.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"10.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"11.webp",
+          "emojis":[
+
+          ]
+        },
+        {
+          "image_file":"12.webp",
+          "emojis":[
+
+          ]
         }
       ]
     }
