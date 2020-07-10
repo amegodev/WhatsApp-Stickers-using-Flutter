@@ -9,8 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_whatsapp_stickers:
-  firebase_admob: ^0.5.5
-  url_launcher:
+  url_launcher: ^5.5.0
   esys_flutter_share: ^1.0.2
 
 dev_dependencies:
@@ -27,11 +26,29 @@ flutter:
   uses-material-design: true
 
   assets:
-    - sticker_packs/1/
-    - sticker_packs/2/
-    - sticker_packs/3/
-    - sticker_packs/4/
-    - sticker_packs/5/
-    - sticker_packs/6/
-    - sticker_packs/7/
-    - sticker_packs/sticker_packs.json
+    - assets/stickers/1
+    - assets/stickers/2
+    - assets/stickers/3
+    - assets/stickers/4
+    - assets/stickers/5
+    - assets/stickers/6
+    - assets/stickers/7
+    - assets/stickers/8
+    - assets/stickers/9
+    - assets/stickers/10
+    - assets/stickers/11
+    - assets/stickers/12
+    - assets/stickers/13
+    - assets/stickers/14
+    - assets/stickers/15
+    - assets/stickers/16
+    - assets/stickers/17
+    - assets/stickers/18
+    - assets/stickers/19
+    - assets/stickers/20
+    - assets/stickers/21
+    - assets/stickers/22
+    - assets/stickers/23
+    - assets/stickers/24
+    - assets/stickers/25
+    - assets/stickers/sticker_packs.json
