@@ -11,12 +11,17 @@ class _HomePageTowState extends State<HomePageTow> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: SvgPicture.asset('assets/icons/burger_menu.svg'),
+        elevation: 0.0,
+        leading: Padding(
+          padding: const EdgeInsets.all(14.0),
+          child: SvgPicture.asset('assets/icons/burger_menu.svg', color: Colors.white,),
+        ),
         title: Text('500+ Arabic Stickers', style: TextStyle(
           fontWeight: FontWeight.w700,
         ),),
         centerTitle: true,
       ),
+      drawer: Drawer(),
       body: Container(),
     );
   }
