@@ -23,7 +23,7 @@ class CustomDrawer{
                     Padding(
                       padding: const EdgeInsets.only(top: 10.0),
                       child: Image.asset(
-                        'assets/images/logo.png',
+                        'assets/icon.png',
                         width: 100.0,
                         fit: BoxFit.cover,
                       ),

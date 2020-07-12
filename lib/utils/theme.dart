@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class MyColors {
   static Color primary = Colors.teal[900];
-  static Color secondary = Color(0XFF3D5896);
+  static Color secondary = Color(0XFFFEFFEB);
   static Color third = Color(0XFFC2CCED);
   static Color blue = Color(0XFF1878F3);
 
@@ -15,15 +15,18 @@ class MyColors {
 class MyTextStyles {
   static TextStyle bigTitle = TextStyle(
       fontFamily: 'Montserrat',
-      color: MyColors.third,
+      color: MyColors.darklight["light"],
       fontSize: 20.0,
       fontWeight: FontWeight.bold);
   static TextStyle title = TextStyle(
-      fontFamily: 'Montserrat',
-      color: MyColors.third, fontSize: 18.0, fontWeight: FontWeight.bold);
+    fontFamily: 'Montserrat',
+    color: MyColors.darklight["light"],
+    fontSize: 18.0,
+    fontWeight: FontWeight.bold,
+  );
   static TextStyle subTitle = TextStyle(
     fontFamily: 'Montserrat',
-    color: MyColors.third,
+    color: MyColors.darklight["light"],
     fontSize: 16.0,
   );
 }
