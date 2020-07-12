@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:trendy_whatsapp_stickers/screens/home_page.dart';
 import 'package:trendy_whatsapp_stickers/screens/home_page_tow.dart';
+import 'package:trendy_whatsapp_stickers/utils/tools.dart';
 
 var routes = <String, WidgetBuilder>{
   "/home" : (BuildContext context) => HomePageTow(),
@@ -9,6 +10,7 @@ var routes = <String, WidgetBuilder>{
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
 //  AdsHelper.initFacebookAds();
+  Tools.getAppInfo();
   runApp(MyApp());
 }
 
