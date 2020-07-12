@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.akramchauhan.wastickers">
+    package="com.amegodev.arabicstickersmemes">
 
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Trendy Stickers"
+        android:label="500+ Arabic Stickers"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"

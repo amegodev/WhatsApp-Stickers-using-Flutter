@@ -11,6 +11,8 @@ dependencies:
   flutter_whatsapp_stickers:
   url_launcher: ^5.5.0
   esys_flutter_share: ^1.0.2
+  facebook_audience_network: ^0.6.1
+  flutter_svg: ^0.17.3+1
 
 dev_dependencies:
   flutter_test:
@@ -26,29 +28,40 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/stickers/1
-    - assets/stickers/2
-    - assets/stickers/3
-    - assets/stickers/4
-    - assets/stickers/5
-    - assets/stickers/6
-    - assets/stickers/7
-    - assets/stickers/8
-    - assets/stickers/9
-    - assets/stickers/10
-    - assets/stickers/11
-    - assets/stickers/12
-    - assets/stickers/13
-    - assets/stickers/14
-    - assets/stickers/15
-    - assets/stickers/16
-    - assets/stickers/17
-    - assets/stickers/18
-    - assets/stickers/19
-    - assets/stickers/20
-    - assets/stickers/21
-    - assets/stickers/22
-    - assets/stickers/23
-    - assets/stickers/24
-    - assets/stickers/25
-    - assets/stickers/sticker_packs.json
+    - assets/icons/
+    - sticker_packs/1/
+    - sticker_packs/2/
+    - sticker_packs/3/
+    - sticker_packs/4/
+    - sticker_packs/5/
+    - sticker_packs/6/
+    - sticker_packs/7/
+    - sticker_packs/8/
+    - sticker_packs/9/
+    - sticker_packs/10/
+    - sticker_packs/11/
+    - sticker_packs/12/
+    - sticker_packs/13/
+    - sticker_packs/14/
+    - sticker_packs/15/
+    - sticker_packs/16/
+    - sticker_packs/17/
+    - sticker_packs/18/
+    - sticker_packs/19/
+    - sticker_packs/20/
+    - sticker_packs/21/
+    - sticker_packs/22/
+    - sticker_packs/23/
+    - sticker_packs/24/
+    - sticker_packs/25/
+    - sticker_packs/26/
+    - sticker_packs/27/
+    - sticker_packs/28/
+    - sticker_packs/sticker_packs.json
+
+  fonts:
+   - family: Montserrat
+     fonts:
+       - asset: assets/fonts/Montserrat-Regular.otf
+       - asset: assets/fonts/Montserrat-Bold.otf
+         weight: 700

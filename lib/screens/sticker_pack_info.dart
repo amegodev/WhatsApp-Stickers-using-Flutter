@@ -91,7 +91,7 @@ class _StickerPackInformationState extends State<StickerPackInformation> {
               children: <Widget>[
                 Padding(
                   padding: const EdgeInsets.all(10.0),
-                  child: Image.asset("assets/stickers/${stickerPack[0]}/${stickerPack[3]}",
+                  child: Image.asset("sticker_packs/${stickerPack[0]}/${stickerPack[3]}",
                     width: 100,
                     height: 100,
                   ),
@@ -123,7 +123,7 @@ class _StickerPackInformationState extends State<StickerPackInformation> {
                   ),
                   itemCount: totalStickers.length,
                   itemBuilder: (context, index) {
-                    var stickerImg = "assets/stickers/${stickerPack[0]}/${totalStickers[index]['image_file']}";
+                    var stickerImg = "sticker_packs/${stickerPack[0]}/${totalStickers[index]['image_file']}";
                     return Padding(
                       padding: const EdgeInsets.all(5.0),
                       child: Image.asset(stickerImg,

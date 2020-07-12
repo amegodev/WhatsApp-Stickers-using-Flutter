@@ -1,4 +1,4 @@
-package com.akramchauhan.wastickers;
+package com.amegodev.arabicstickersmemes;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

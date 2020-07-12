@@ -16,7 +16,7 @@ class _StaticContentState extends State<StaticContent> {
   List installedStickers = new List();
 
   void _loadStickers() async{
-    String data = await rootBundle.loadString("assets/stickers/sticker_packs.json");
+    String data = await rootBundle.loadString("sticker_packs/sticker_packs.json");
     final response = json.decode(data);
     List tempList = new List();
 
@@ -148,7 +148,7 @@ class _StaticContentState extends State<StaticContent> {
           },
           title: Text("$name"),
           subtitle: Text("$publisher"),
-          leading: Image.asset("assets/stickers/$identifier/$stickerTrayIcon"),
+          leading: Image.asset("sticker_packs/$identifier/$stickerTrayIcon"),
           trailing: Column(
             children: <Widget>[
               depInstallWidget,

@@ -1,10 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:trendy_whatsapp_stickers/screens/home_page.dart';
+import 'package:trendy_whatsapp_stickers/screens/home_page_tow.dart';
 
-void main() => runApp(MyApp());
+var routes = <String, WidgetBuilder>{
+  "/home" : (BuildContext context) => HomePageTow(),
+};
+
+void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+//  AdsHelper.initFacebookAds();
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
-  final String title = 'Trendy WhatsApp Stickers';
+  final String title = '500+ Arabic Stickers';
 
   @override
   Widget build(BuildContext context) {
@@ -12,9 +21,11 @@ class MyApp extends StatelessWidget {
       title: title,
       theme: ThemeData(
         primaryColor: Colors.teal[900],
+        fontFamily: 'Montserrat'
       ),
       debugShowCheckedModeBanner: false,
-      home: MyHomePage(),
+      routes: routes,
+      home: HomePageTow(),
     );
   }
 }
