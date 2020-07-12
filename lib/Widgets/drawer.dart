@@ -151,7 +151,7 @@ class CustomDrawer{
                         ),
                         onPressed: () {
                           Navigator.pop(context);
-                          Tools.launchURLMore();
+                          Tools.launchURLPrivacy();
                         },
                         child: Row(
                           children: <Widget>[
