@@ -27,7 +27,7 @@ class Tools {
   }
 
   static launchURLMore() async {
-    var url = 'https://play.google.com/store/apps/dev?id=6782303090044555721';
+    var url = 'https://play.google.com/store/apps/developer?id=Karim+StoreApps';
     if (await canLaunch(url)) {
       await launch(url);
       print('visiting : $url');

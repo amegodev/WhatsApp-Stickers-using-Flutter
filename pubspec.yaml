@@ -14,11 +14,11 @@ dependencies:
   facebook_audience_network: ^0.6.1
   flutter_svg: ^0.17.3+1
   package_info: ^0.4.0+18
+  flutter_launcher_icons: ^0.7.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: "^0.7.3"
 
 flutter_icons:
   android: "launcher_icon"
@@ -35,30 +35,6 @@ flutter:
     - sticker_packs/2/
     - sticker_packs/3/
     - sticker_packs/4/
-    - sticker_packs/5/
-    - sticker_packs/6/
-    - sticker_packs/7/
-    - sticker_packs/8/
-    - sticker_packs/9/
-    - sticker_packs/10/
-    - sticker_packs/11/
-    - sticker_packs/12/
-    - sticker_packs/13/
-    - sticker_packs/14/
-    - sticker_packs/15/
-    - sticker_packs/16/
-    - sticker_packs/17/
-    - sticker_packs/18/
-    - sticker_packs/19/
-    - sticker_packs/20/
-    - sticker_packs/21/
-    - sticker_packs/22/
-    - sticker_packs/23/
-    - sticker_packs/24/
-    - sticker_packs/25/
-    - sticker_packs/26/
-    - sticker_packs/27/
-    - sticker_packs/28/
     - sticker_packs/sticker_packs.json
 
   fonts:

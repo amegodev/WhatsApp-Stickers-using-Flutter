@@ -9,6 +9,9 @@ import 'package:trendy_whatsapp_stickers/utils/theme.dart';
 import 'package:trendy_whatsapp_stickers/utils/utils.dart';
 
 class StaticContent extends StatefulWidget {
+  final VoidCallback onClicked;
+
+  const StaticContent({Key key, this.onClicked}) : super(key: key);
   @override
   _StaticContentState createState() => _StaticContentState();
 }
@@ -109,14 +112,14 @@ class _StaticContentState extends State<StaticContent> {
     Widget depInstallWidget;
     if (installed == true) {
       depInstallWidget = IconButton(
-        icon: SvgPicture.asset('assets/icons/check.svg', color: MyColors.primary),
+        icon: SvgPicture.asset('assets/icons/check.svg', color: Colors.white),
         color: Colors.teal,
         tooltip: 'Add Sticker to WhatsApp',
         onPressed: () {},
       );
     } else {
       depInstallWidget = IconButton(
-        icon: SvgPicture.asset('assets/icons/add.svg',),
+        icon: SvgPicture.asset('assets/icons/add.svg',color:  Colors.white,),
         color: Colors.teal,
         tooltip: 'Add Sticker to WhatsApp',
         onPressed: () async {
@@ -134,6 +137,7 @@ class _StaticContentState extends State<StaticContent> {
               context: context,
             ),
           );
+          if(widget.onClicked != null) widget.onClicked();
         },
       );
     }
@@ -141,16 +145,11 @@ class _StaticContentState extends State<StaticContent> {
     return Container(
       padding: EdgeInsets.all(10.0),
       child: Container(
+        padding: EdgeInsets.only(bottom: 10.0),
         decoration: BoxDecoration(
-            color: Colors.white,
+            color: MyColors.primary,
             borderRadius: BorderRadius.circular(30.0),
-            boxShadow: [
-              BoxShadow(
-                color: Colors.black,
-                offset: Offset(0.0, 1.0),
-                blurRadius: 1.0,
-              )
-            ]),
+            ),
         child: ClipRRect(
           child: InkWell(
             onTap: () {
@@ -158,14 +157,16 @@ class _StaticContentState extends State<StaticContent> {
                 builder: (BuildContext context) =>
                     StickerPackInformation(stickerList),
               ));
+              if(widget.onClicked != null) widget.onClicked();
             },
             child: Column(
               children: <Widget>[
                 ListTile(
                   leading: Container(
+                    padding: EdgeInsets.all(5.0),
                       decoration: BoxDecoration(
                         color: MyColors.darklight["light"],
-                        borderRadius: BorderRadius.circular(15.0),
+                        borderRadius: BorderRadius.circular(100.0),
                         boxShadow: [
                           BoxShadow(
                             color: Colors.black,
@@ -180,12 +181,12 @@ class _StaticContentState extends State<StaticContent> {
                   ),
                   title: Text(
                     "$name",
-                    style: MyTextStyles.title.apply(color: MyColors.darklight["dark"]),
+                    style: MyTextStyles.bigTitle.apply(color: MyColors.darklight["light"]),
                   ),
                   subtitle: Text(
                     "$publisher",
-                    style: MyTextStyles.subTitle
-                        .apply(color: MyColors.darklight["dark"].withOpacity(0.5)),
+                    style: MyTextStyles.title
+                        .apply(color: MyColors.darklight["light"].withOpacity(0.5), fontSizeFactor: 0.6),
                   ),
                   trailing: Column(
                     children: <Widget>[

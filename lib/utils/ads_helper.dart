@@ -8,12 +8,12 @@ class AdsHelper {
 
   //===================================> Facebook Ads:
   //FB Banner
-  static String fbBannerId_1 = '292842685161963_292842968495268';
-  static String fbBannerId_2 = '';
+  static String fbBannerId_1 = '323858748639868_323858818639861';
+  static String fbBannerId_2 = '323858748639868_323858815306528';
 
   //FB Inter
-  static String fbInterId_1 = '292842685161963_292865211826377';
-  static String fbInterId_2 = '';
+  static String fbInterId_1 = '323858748639868_323858828639860';
+  static String fbInterId_2 = '323858748639868_323858831973193';
 
   //FB Native Banner
   static String fbNativeBannerId = '';

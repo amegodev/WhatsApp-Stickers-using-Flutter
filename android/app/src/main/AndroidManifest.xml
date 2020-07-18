@@ -1,9 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.amegodev.arabicstickersmemes">
+    package="com.amegodev.hkimstickers">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="500+ Arabic Stickers"
+        android:label="Karta 7kim Stickers for Whatsapp"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"

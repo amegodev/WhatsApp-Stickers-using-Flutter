@@ -1,4 +1,4 @@
-package com.amegodev.arabicstickersmemes;
+package com.amegodev.hkimstickers;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

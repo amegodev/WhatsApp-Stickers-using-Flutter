@@ -1,21 +1,22 @@
 import 'package:flutter/material.dart';
 import 'package:trendy_whatsapp_stickers/screens/home_page.dart';
-import 'package:trendy_whatsapp_stickers/screens/home_page_tow.dart';
+import 'package:trendy_whatsapp_stickers/utils/ads_helper.dart';
 import 'package:trendy_whatsapp_stickers/utils/tools.dart';
 
 var routes = <String, WidgetBuilder>{
-  "/home" : (BuildContext context) => HomePageTow(),
+  "/home" : (BuildContext context) => HomePage(),
 };
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-//  AdsHelper.initFacebookAds();
-  Tools.getAppInfo();
-  runApp(MyApp());
+  AdsHelper.initFacebookAds();
+  Tools.getAppInfo().then((value) {
+    runApp(MyApp());
+  });
 }
 
 class MyApp extends StatelessWidget {
-  final String title = '500+ Arabic Stickers';
+  final String title = 'Hkim Stickes';
 
   @override
   Widget build(BuildContext context) {
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       routes: routes,
-      home: HomePageTow(),
+      home: HomePage(),
     );
   }
 }
